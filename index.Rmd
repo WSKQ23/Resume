@@ -54,9 +54,8 @@ Contact {#contact}
 
 
 - <i class="fa fa-envelope"></i> wkamanda80@gmail.com
-- <i class="fa fa-github"></i> [github.com/WSKQ23](https://github.com/JasonSills)
+- <i class="fa fa-github"></i> [github.com/WSKQ23](https://github.com/WSKQ23)
 - <i class="fa fa-linkedin"></i> [linkedin/in/william-kamanda-7023a1115](https://www.linkedin.com/in/william-kamanda-7023a1115/)
-- <i class="fa fa-phone"></i> (610)-938-3346
 
 
 
